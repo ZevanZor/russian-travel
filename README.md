@@ -13,3 +13,5 @@
 * Верстка по БЭМ
 
 ### GitHub Pages
+
+(https://zevanzor.github.io/russian-travel/)
