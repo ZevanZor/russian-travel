@@ -1,7 +1,6 @@
 .cover {
   max-width: 1148px;
   min-height: 740px;
-  max-height: 200px;
   display: flex;
   justify-content: center;
   align-items: stretch;
