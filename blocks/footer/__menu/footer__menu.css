@@ -5,7 +5,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 720px) {
   .footer__menu {
     flex-direction: column;
     margin-bottom: 48px;
